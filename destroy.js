@@ -55,4 +55,4 @@ console.log('\n========================\n')
 vaderStar.attack(alderaan);
 
 console.log('Luke, I am your father!');
-console.log('I\'m not actually, my name is YOUR_NAME...')
+console.log('I\'m not actually, my name is Captain Planet...')
